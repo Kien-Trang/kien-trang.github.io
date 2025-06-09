@@ -48,18 +48,18 @@ interests:
   - Computer Vision
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Candidate
+    institution: Monash University
+    date_start: 2023-01-01
+    date_end: 2026-12-31
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
+  - area: MEng Electronics Engineering
+    institution: International University - VNU HCMC
+    date_start: 2018-01-01
     date_end: 2020-12-31
     summary: |
       GPA: 3.8/4.0
@@ -68,10 +68,10 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: BEng Electrical Engineering
+    institution: International University - VNU HCMC
+    date_start: 2013-01-01
+    date_end: 2018-12-31
     summary: |
       GPA: 3.4/4.0
       
@@ -179,4 +179,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Kien Trang received the B.Eng. and M.Eng. degrees in electrical engineering from International University, Vietnam National University Ho Chi Minh City, in 2018 and 2020, respectively. He is currently pursuing the Ph.D. degree with the School of Information Technology, Monash University. He was a Researcher with the School of Electrical Engineering, International University, until 2023. His research interests include computer vision and deep learning in medical analysis.
