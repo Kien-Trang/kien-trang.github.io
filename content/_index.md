@@ -20,8 +20,6 @@ sections:
         url: uploads/resume.pdf
     design:
       css_class: light
-      background:
-        color: white
   - block: markdown
     content:
       title: '📚 My Research'
