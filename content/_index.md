@@ -22,14 +22,6 @@ sections:
       css_class: light
       background:
         color: white
-        image:
-          # Add your image background to `assets/media/`.
-          filename:
-          filters:
-            brightness: 1.0
-          size: cover
-          position: center
-          parallax: false
   - block: markdown
     content:
       title: '📚 My Research'
