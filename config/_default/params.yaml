@@ -38,9 +38,9 @@ header:
       text: "Kien Trang"
 
 # Site footer
-footer:
+# footer:
   copyright:
-    notice: '© {year} Kien Trang. This work is licensed under {license}'
+    notice: 'Copyright© {year} Kien Trang'
     license:
       enable: true
       allow_derivatives: false
