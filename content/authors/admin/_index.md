@@ -26,6 +26,7 @@ role: Researcher Phd Candidate
 organizations:
   - name: Monash University
     url: https://www.monash.edu/
+    {style="color: blue"}
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
