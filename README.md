@@ -9,8 +9,7 @@ To run the website locally:
 ```bash
 hugo serve
 ```
-### 🌐 Getting Started
-
+### 🌐 Published
 Access the portfolio at **[Here](https://kien-trang.github.io/)**
 
 
