@@ -128,12 +128,11 @@ sections:
           date_start: '2018-09-01'
           date_end: '2020-10-30'
           description: |2-
-              **Master’s Thesis** – "*Deep Learning-Based Approaches for Plant Leaf Disease Identification*"
-
+              **Master’s Thesis** – "*Deep Learning-Based Approaches for Plant Leaf Disease Identification"*
               This thesis addressed the growing need for accurate and efficient plant disease detection through the development of deep learning models for leaf image analysis. Two distinct approaches were investigated:
-              - A **ResNet-based classification model** enhanced by contrast adjustment and transfer learning. The model was trained on a custom-collected mango leaf dataset and utilized image normalization techniques—such as rescaling and center alignment—to improve consistency across samples. Leveraging a pre-trained ResNet architecture and fine-tuned on the target domain, the model achieved an accuracy of 88.46%, outperforming other conventional CNN models. **[Link](https://ieeexplore.ieee.org/document/9214620)**
+              - A **ResNet-based classification model** enhanced by contrast adjustment and transfer learning. The model was trained on a custom-collected mango leaf dataset and utilized image normalization techniques—such as rescaling and center alignment—to improve consistency across samples. *[For more details](https://ieeexplore.ieee.org/document/9214620)*
 
-              - An **unsupervised feature extraction pipeline** based on a Deep Convolutional Autoencoder, where the encoder’s latent representations were employed as input features for a Support Vector Machine (SVM) classifier. This method was validated using a subset of the PlantVillage dataset and demonstrated strong classification performance, reaching an accuracy of 98.8%, with results showing the effectiveness of different encoder architectures and kernel configurations. **[Link](https://ieeexplore.ieee.org/document/9158218)**
+              - An **unsupervised feature extraction pipeline** based on a Deep Convolutional Autoencoder, where the encoder’s latent representations were employed as input features for a Support Vector Machine (SVM) classifier. This method was validated using a subset of the PlantVillage dataset and demonstrated strong classification performance with different encoder architectures and kernel configurations. *[For more details](https://ieeexplore.ieee.org/document/9158218)*
 
 
         - title: BEng Electrical Engineering
@@ -147,7 +146,8 @@ sections:
 
               **Academic Focus:**  Throughout the undergraduate program, I pursued a curriculum with main emphasis on digital signal processing (DSP), image processing, and embedded systems. The coursework included foundational and advanced areas such as linear systems, digital filters, filtering techniques for signal and image, and basic implementation on small scale hardware. 
 
-              **Undergraduate Thesis** – "Design a Facial Expression Classification Program": Investigated the automatic classification of human facial expressions using handcrafted features and traditional machine learning techniques. This thesis involved:
+              **Undergraduate Thesis** – "*Design a Facial Expression Classification Program"*
+              This thesis investigated the automatic classification of human facial expressions using handcrafted features and traditional machine learning techniques. This thesis involved:
               - Employing existing dataset and self-collected dataset. Dataset preparation and annotation for expressions for self-collected dataset
               - Feature extraction using geometric and texture-based descriptors (including Haar cascade features, Histogram of Oriented Gradients (HOG) and Scale-Invariant Feature Transform (SIFT)).
               - Implementation and comparative evaluation of classification algorithms (including k-Nearest Neighbors (k-NN) and Support Vector Machines (SVM))
