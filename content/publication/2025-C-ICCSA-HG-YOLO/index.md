@@ -19,7 +19,7 @@ publishDate: "2025-06-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Computational Science and Its Applications -- ICCSA 2025*, pp. 332-344, 2025"
+publication: "*Computational Science and Its Applications -- ICCSA 2025*, Istanbul, Turkiye, 2025, pp. 332-344"
 publication_short: ""
 
 abstract: Cancer continues to be a major global health issue, which is defined by uncontrolled cell proliferation and the potential invasion to other areas of the body. The early and precise detection of tumors through medical imaging is essential in improving cancer prognosis and treatment outcomes. This study presents HG-YOLO, a novel YOLO-based architecture enhanced by the integration of the PP-HGNet backbone and a Global Attention Mechanism (GAM). HG-YOLO capitalizes on the robust feature extraction capabilities of PP-HGNet and the attention-enhancing properties of GAM to improve the potential features. This combination aims to improve the sensitivity and precision of tumor localization, especially in complex cases where tumors are small or poorly delineated. Overall, the model is assessed using the Brain Tumor Detection 2020 (Br35H) dataset with the Magnetic Resonance Imaging (MRI) images. Comparative studies show that our HG-YOLO outperforms the prior versions in terms of Precision, Recall, mAP50 and mAP50-95 - giving 0.934, 0.915, 0.953, and 0.728, respectively.
