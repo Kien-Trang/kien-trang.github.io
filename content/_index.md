@@ -110,7 +110,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: PhD Candidate in Medical AI
+        - title: PhD Candidate
           company: Monash University
           company_url: 'https://www.monash.edu/'
           company_logo: Monash-logo
@@ -118,11 +118,7 @@ sections:
           date_start: '2023-08-01'
           date_end: ''
           description: |2-
-              - Conducting research in medical image analysis with a focus on breast cancer diagnosis.
-
-              - Working on breast cancer classification, detection, and segmentation using deep learning methods.
-
-              - Exploring explainable artificial intelligence (XAI) to improve the interpretability and clinical reliability of medical imaging models.
+              Conducting the research focus on **medical image analysis**, deep learning techniques for **classification, detection,** and **segmentation** tasks, particularly in the context of disease diagnosis. The work also involves developing methods for **explainable AI (XAI)** to enhance model transparency and clinical interpretability. Applications primarily involve imaging modalities such as mammography and ultrasound.
         
         - title: MEng Electronics Engineering
           company: International University - Vietnam National University Ho Chi Minh City (VNU)
@@ -186,7 +182,9 @@ sections:
           description: |2-
               Responsibilities include:
 
-              Conducting the research focus on **medical image analysis**, deep learning techniques for **classification, detection,** and **segmentation** tasks, particularly in the context of disease diagnosis. The work also involves developing methods for **explainable AI (XAI)** to enhance model transparency and clinical interpretability. Applications primarily involve imaging modalities such as mammography and ultrasound.
+              * Analysing
+              * Modelling
+              * Deploying
 
         - title: Researcher
           company: International University - Vietnam National University Ho Chi Minh City (VNU)
@@ -195,11 +193,7 @@ sections:
           location: 
           date_start: '2021-03-01'
           date_end: 
-          description: 
-            - Designed, prepared, and delivered laboratory instruction for four courses per semester within the School of Electrical Engineering.
-    
-            - Conducted research in signal processing, image processing, and artificial intelligence, with a focus on applied problem-solving.
-            - Participated in departmental administrative activities, including accreditation support, admissions counseling, and academic coordination.
+          description: Taught electronic engineering and researched on Image and Signal Processing
 
         - title: Teaching Assistant
           company: International University - Vietnam National University Ho Chi Minh City (VNU)
