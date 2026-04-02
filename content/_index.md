@@ -110,7 +110,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: PhD Candidate
+        - title: PhD Candidate in Medical AI
           company: Monash University
           company_url: 'https://www.monash.edu/'
           company_logo: Monash-logo
@@ -174,7 +174,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Researcher Phd Candidate
+        - title: Researcher PhD Candidate
           company: Monash University
           company_url: 'https://www.monash.edu/'
           company_logo: Monash-logo
@@ -182,11 +182,9 @@ sections:
           date_start: '2023-08-01'
           date_end: ''
           description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
+              - Conducting research in medical image analysis with a focus on breast cancer diagnosis.
+              - Working on breast cancer classification, detection, and segmentation using deep learning methods.
+              - Exploring explainable artificial intelligence (XAI) to improve the interpretability and clinical reliability of medical imaging models.
 
         - title: Researcher
           company: International University - Vietnam National University Ho Chi Minh City (VNU)
@@ -195,7 +193,10 @@ sections:
           location: 
           date_start: '2021-03-01'
           date_end: 
-          description: Taught electronic engineering and researched on Image and Signal Processing
+          description: |2-
+              - Designed, prepared, and delivered laboratory instruction for four courses per semester within the School of Electrical Engineering.
+              - Conducted research in signal processing, image processing, and artificial intelligence, with a focus on applied problem-solving.
+              - Participated in departmental administrative activities: accreditation support, admissions counseling, and academic coordination.
 
         - title: Teaching Assistant
           company: International University - Vietnam National University Ho Chi Minh City (VNU)
@@ -204,7 +205,10 @@ sections:
           location: 
           date_start: '2018-10-01'
           date_end: '2021-03-01'
-          description: Taught electronic engineering and researched on Image and Signal Processing
+          description: |2-
+              - Assisted instructors in preparing and organizing course materials for subjects such as Principles of Electrical Engineering, Digital Logic Design, and Image Processing.
+              - Graded assignments, reports, quizzes, and examinations in accordance with course requirements and academic standards. 
+              - Coordinated with faculty members to manage teaching-related tasks and improve the overall learning experience.
 
         - title: Software Developer
           company: Shinhan DS Vietnam
@@ -213,7 +217,10 @@ sections:
           location: 
           date_start: '2018-06-25'
           date_end: '2018-10-01'
-          description: 
+          description: |2-
+              - Contributed to the development and maintenance of core banking services within the software development department.
+              - Worked as part of the Deposit Team to implement new features and improve existing system functions. 
+              - Supported software enhancement activities by refining workflows and resolving bugs.
         
         - title: Internship Trainee in FPT Global Automotive Department
           company: FPT Software
